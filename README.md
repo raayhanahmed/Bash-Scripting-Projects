@@ -12,5 +12,5 @@ A collection of interactive, menu-driven CLI applications built with Bash script
 | No. | Project Name | Core Concepts | Source Code |
 | :--- | :--- | :--- | :--- |
 | **01** | [**Student Result Management System**](./01-Student-Result-System) | Parallel Arrays, Dynamic Grading, Case-Insensitive Search, Scholarship Logic | [`student_report.bash`](./1-Student-result-management-system) |
-| **02** | [**Product Inventory System**](./02-Product-Inventory-System) | Pass-by-Reference (`local -n`), Duplicate Validation, Dynamic Array Append, Filtering | [`student_report.bash`](./1-Student-result-management-system) |
+| **02** | [**Product Inventory System**](./02-Product-Inventory-System) | Pass-by-Reference (`local -n`), Duplicate Validation, Dynamic Array Append, Filtering | [`Product_report.bash`](./2-Product management system) |
 ---
