@@ -12,6 +12,6 @@ A collection of interactive, menu-driven CLI applications built with Bash script
 | No. | Project Name | Core Concepts | Source Code |
 | :--- | :--- | :--- | :--- |
 | **01** | [**Student Result Management System**](./1-Student-result-management-system) | Parallel Arrays, Dynamic Grading, Case-Insensitive Search, Scholarship Logic | [`student_report.sh`](./1-Student-result-management-system) |
-| **02** | [**Product Inventory System**](./02-Product-Inventory-System) | Pass-by-Reference (`local -n`), Duplicate Validation, Dynamic Array Append, Filtering | [`product_inventory.sh`](./2-Product-management-system) |
+| **02** | [**Product Inventory System**]([./02-Product-Inventory-System](https://github.com/raayhanahmed/Bash-Scripting-Projects/tree/f26cd5bb44cff1ac616dcd134284592c2a551b7b/2-Product%20management%20system)) | Pass-by-Reference (`local -n`), Duplicate Validation, Dynamic Array Append, Filtering | [`product_inventory.sh`]([./2-Product-management-system](https://github.com/raayhanahmed/Bash-Scripting-Projects/tree/f26cd5bb44cff1ac616dcd134284592c2a551b7b/2-Product%20management%20system)) |
 
 ---
