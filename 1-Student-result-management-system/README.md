@@ -1,6 +1,10 @@
-
+<div align="center">
+  
 # 🎓 Student Result Management System
+![Bash](https://img.shields.io/badge/Made_with-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![CLI](https://img.shields.io/badge/Interface-CLI-blue?style=flat-square)
 
+</div>
 A menu-driven command-line application built in **GNU Bash** to manage student academic records, calculate letter grades, perform case-insensitive lookups, and evaluate scholarship eligibility.
 
 ## ✨ Key Features
